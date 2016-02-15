@@ -47,11 +47,6 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-h1 {
-  font-size: 36px;
-  line-height: 36px;
-  margin-bottom: 18px;
-}
 
 /* Custom site styles */
 /*
@@ -68,6 +63,12 @@ body {
   text-size-adjust: 100%;
   font: "Gill Sans"
   .tab { margin-left: 2.25em; }
+}
+
+h1 {
+  font-size: 36px;
+  line-height: 36px;
+  margin-bottom: 18px;
 }
 
 h2 {
