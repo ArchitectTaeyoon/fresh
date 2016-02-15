@@ -22,7 +22,7 @@ time, mark, audio, video {
 	font-size: 100%;
 	font: "Helvetica";
 	vertical-align: baseline;
-	background: powderblue;
+	background: mintcream;
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
@@ -75,4 +75,12 @@ h2 {
   padding-top: 0.8333333333333334em; /* 25.92px / 31.104 */
   padding-bottom: 1.6666666666666667em; /* 25.92 * 2 / 31.104 */
 }
+
+p {
+  text-indent: 2.25em;
+  background: black;
+  text-decoration-color: yellow;
+}
+
+
 
